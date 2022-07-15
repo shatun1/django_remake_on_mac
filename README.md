@@ -1,0 +1,1 @@
+# django_remake_on_mac
